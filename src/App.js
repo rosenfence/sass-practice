@@ -8,6 +8,7 @@ function App() {
       <h1>SASS 연습!!!</h1>
       <div className="buttons">
         <Button>BUTTON</Button>
+        <Button>작은버튼</Button>
       </div>
     </div>
   );

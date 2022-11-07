@@ -22,6 +22,6 @@ $blue: #228be6;
   }
 
   &:active {
-    background: darken(#fff, 10%);
+    background: darken($blue, 10%);
   }
 }
