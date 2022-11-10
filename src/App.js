@@ -51,6 +51,10 @@ function App() {
           BUTTON
         </Button>
       </div>
+      <div className='boxs'>
+        <Box>Box</Box>
+      </div>
+    </div>
   );
 }
 
