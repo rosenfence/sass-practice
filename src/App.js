@@ -8,6 +8,7 @@ function App() {
     <div className='App'>
       <div className='buttons'>
         <Button>BUTTON</Button>
+
         <Button size='small'>BUTTON</Button>
       </div>
       <div className='buttons'>
@@ -50,10 +51,6 @@ function App() {
           BUTTON
         </Button>
       </div>
-      <div className='boxes'>
-        <Box>Box</Box>
-      </div>
-    </div>
   );
 }
 
